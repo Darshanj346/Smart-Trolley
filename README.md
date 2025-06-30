@@ -24,8 +24,7 @@ The Smart Trolley is an IoT-based project designed to simplify the shopping expe
 - Power Supply
 
 ## 🔌 Circuit Diagram
-
-Add circuit diagram image in `assets/` folder and link here.
+assets/IoT-based-Smart-Shopping-Cart-Circuit-Diagram.png
 
 ## 🧠 Working
 
