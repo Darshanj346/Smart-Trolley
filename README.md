@@ -43,7 +43,4 @@ See `code/smart_trolley.ino`.
 
 ![Demo](assets/demo.gif)
 
-## 👤 Author
 
-Darshan Jadhav  
-Email: your.email@example.com
